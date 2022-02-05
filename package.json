@@ -2,7 +2,19 @@
     "name": "cool-coder-dark",
     "displayName": "Cool Coder Dark",
     "description": "Dark theme for VSCode",
-    "version": "0.0.1",
+    "version": "1.0.0",
+    "publisher": "RManter",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rizmanter11/vstheme"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "watermelon",
+        "red-blue-green-yellow",
+        "riz manter"
+    ],
     "engines": {
         "vscode": "^1.64.0"
     },

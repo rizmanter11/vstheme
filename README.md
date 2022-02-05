@@ -1,13 +1,7 @@
-# README
-## This is the README for your extension "cool-coder-dark"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# COOL CODER DARK WATERMELON THEME
+## Extension "cool-coder-dark"
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+This is a new theme for rad-lit coders who want a theme that fits their personality.
+This one in particular are for those who are bubly and enjoy being fresh while also
+having a subtle dark side. 
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
